@@ -7,3 +7,4 @@ fun main() {
 fun fromKotlin(): String {
     return "From Kotlin"
 }
+
