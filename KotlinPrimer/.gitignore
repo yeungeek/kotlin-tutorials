@@ -1,0 +1,6 @@
+*.jar
+.DS_Store
+*/.DS_Store
+.idea
+out
+production
