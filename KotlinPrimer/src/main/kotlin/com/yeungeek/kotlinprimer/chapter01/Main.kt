@@ -54,4 +54,3 @@ fun testFormat(str: String, imp: JavaImpl) {
 fun printlnLength(name: String?) {
     println(name?.length)
 }
-
